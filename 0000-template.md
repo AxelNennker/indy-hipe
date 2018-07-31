@@ -13,7 +13,7 @@ One paragraph explanation of the feature.
 [motivation]: #motivation
 
 Why are we doing this? What use cases does it support? What is the expected
-ßoutcome?
+ outcome?
 
 # Tutorial
 [tutorial]: #tutorial
